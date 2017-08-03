@@ -17,3 +17,7 @@ npm config set progress:true  //显示进度信息
 参考：   
 [https://docs.npmjs.com/cli/config](https://docs.npmjs.com/cli/config)   
 [https://docs.npmjs.com/misc/config](https://docs.npmjs.com/misc/config)
++ 拷贝文件(file0 --> file1)
+```
+cp -r file0 file1
+```
