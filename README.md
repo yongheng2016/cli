@@ -15,5 +15,5 @@ npm config set key value
 npm config set progress:true  //显示进度信息
 ```
 参考：
-[https://docs.npmjs.com/cli/config](https://docs.npmjs.com/cli/config)
+[https://docs.npmjs.com/cli/config](https://docs.npmjs.com/cli/config)   
 [https://docs.npmjs.com/misc/config](https://docs.npmjs.com/misc/config)
