@@ -37,6 +37,5 @@ cat ~/.ssh/id_rsa.pub
 ```
 + 合并分支
 ```
-xxxx(master)
-git merge fenzhi
+git xx xxx
 ```
