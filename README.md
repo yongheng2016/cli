@@ -21,3 +21,13 @@ npm config set progress:true  //显示进度信息
 ```
 cp -r file0 file1
 ```
++ git 跳转至指定版本
+```
+git log
+git reflog
+> 44d4d0e HEAD@{0}: commit: 3
+fe6cd0f HEAD@{1}: commit: 2
+997b12c HEAD@{2}: commit: 1
+
+git reset --hard hash
+```
