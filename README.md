@@ -31,3 +31,7 @@ git reflog
 
 git reset --hard hash
 ```
++ 公钥查询
+```
+cat ~/.ssh/id_rsa.pub
+```
