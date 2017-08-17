@@ -43,3 +43,12 @@ git xx xxx
 ```
 start .   //打开当前目录
 ```
++ 打印文件内容
+```
+cat a.html b.html   //输出两个文件内容
+```
++ 移动、重命名文件
+```
+mv a.html ..  //移动a.html至上个文件夹
+mv a.html b.html  //a.html重命名为b.html
+```
