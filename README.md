@@ -39,3 +39,7 @@ cat ~/.ssh/id_rsa.pub
 ```
 git xx xxx
 ```
++ window下打开文件目录
+```
+start .   //打开当前目录
+```
