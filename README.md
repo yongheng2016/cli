@@ -49,6 +49,10 @@ cat a.html b.html   //输出两个文件内容
 ```
 + 移动、重命名文件
 ```
-mv a.html ..  //移动a.html至上个文件夹
+mv a.html ..  //移动a.html至上级目录
 mv a.html b.html  //a.html重命名为b.html
+```
++ 复制文件到目录
+```
+cp a.html ..  //复制a.html到上级目录
 ```
