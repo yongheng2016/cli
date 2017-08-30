@@ -56,3 +56,5 @@ mv a.html b.html  //a.html重命名为b.html
 ```
 cp a.html ..  //复制a.html到上级目录
 ```
++ scp
+[http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/scp.html](http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/scp.html)
