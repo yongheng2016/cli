@@ -58,3 +58,7 @@ cp a.html ..  //复制a.html到上级目录
 ```
 + scp     
 [http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/scp.html](http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/scp.html)
++ 删除当前版本,同时回到上个版本
+```
+git reset --hard HEAD^
+```
