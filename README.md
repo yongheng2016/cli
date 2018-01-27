@@ -68,3 +68,8 @@ git reset --hard HEAD^
 
 如果想恢复默认，打开DOS面板，执行npm config set registry https://registry.npmjs.org
 ```
+
++ 复制ssh的公钥
+```
+$ pbcopy < ~/.ssh/id_rsa.pub
+```
