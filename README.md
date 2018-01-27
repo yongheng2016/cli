@@ -62,3 +62,9 @@ cp a.html ..  //复制a.html到上级目录
 ```
 git reset --hard HEAD^
 ```
++ 设置淘宝镜像
+```
+注：打开DOS面板，执行npm config set registry https://registry.npm.taobao.org
+
+如果想恢复默认，打开DOS面板，执行npm config set registry https://registry.npmjs.org
+```
