@@ -73,7 +73,7 @@ git reset --hard HEAD^
 ```
 $ pbcopy < ~/.ssh/id_rsa.pub
 ```
-+ 恢复误删文件
++ 取消该文件再工作区的修改
 ```
-git checkout  src/components/xxx  //文件路径
+$ git checkout -- file
 ```
