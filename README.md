@@ -77,3 +77,7 @@ $ pbcopy < ~/.ssh/id_rsa.pub
 ```
 $ git checkout -- file
 ```
++ 查看合并分支图
+```
+git log --graph
+```
