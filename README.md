@@ -81,3 +81,9 @@ $ git checkout -- file
 ```
 git log --graph
 ```
+```
+运行 npm config set loglevel http，让你知道 npm 发的每一个请求
+运行 npm config set progress false，关闭那个进度条
+为了让你的安装速度变快，运行 npm config set registry https://registry.npm.taobao.org/
+如果上面的配置让你在运行 npm adduser 的时候出了问题，只需要 npm config delete registry 即可想要恢复成原样。没出问题就别运行 npm config delete registry。
+```
